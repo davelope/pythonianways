@@ -1,0 +1,6 @@
+#importing math lib
+import math
+
+#square root of 100
+x = math.sqrt(100)
+print(x)
