@@ -1,0 +1,12 @@
+#importing math lib to execute later commands
+#i'm not using aliasing, because this code is short enough to be typed manually
+import math
+
+#defining & showing pi value
+x = math.pi
+print(x)
+
+#using aliasing on math lib
+import math as mt
+x = mt.pi
+print(x)
