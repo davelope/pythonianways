@@ -1,0 +1,6 @@
+ #aliasing pada lib numpy
+import numpy as np #aliasing numpy menjadi np
+
+y = [9,0,8]
+x = np.array(y)
+print(x)
