@@ -9,4 +9,11 @@ print("Hello")
 x = "Hello"
 y = "World"
 
-print(x*2)
+print(x*2) #this code will make Hello appear twice
+
+print(x+y) #this code will make HelloWorld
+print(x+" "+y) #this code will make Hello World #easier to read, right?
+
+print("Hello" + 2) #this code will make an error, you can't adding or substracting strings by integer
+
+
