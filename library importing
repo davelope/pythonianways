@@ -1,0 +1,9 @@
+#importing all function from math lib
+import math
+
+#alternative way to importing all function
+from numpy import *
+
+#importing partial lib function
+#change < >
+from <library> import <specified_function>
