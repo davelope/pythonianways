@@ -1,0 +1,5 @@
+#import required packages
+import os
+
+#show the working directory you're working on
+print(os.getcwd())
