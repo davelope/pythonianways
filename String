@@ -1,0 +1,12 @@
+#what you can do on strings data type
+# you can use ' ' or " " (single or double quotation marks will do the task)
+
+#these 2 line of code will execute just correctly
+print('Hello')
+print("Hello")
+
+#multiplying strings type of data
+x = "Hello"
+y = "World"
+
+print(x*2)
