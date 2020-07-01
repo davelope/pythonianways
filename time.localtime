@@ -1,0 +1,10 @@
+#importing time lib
+import time
+
+#define local_time variable
+local_time = time.localtime()
+
+#making tidy format of time
+local_time2 = time.strftime("%I:%M:%S %p", local_time)
+
+print(local_time2)
