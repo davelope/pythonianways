@@ -1,4 +1,23 @@
 #this is your first journey on python
 #print will make an output out of your coding
+#in python 3, everything put inside the "" will be classify as String (Str) type
+#every print command will execute a newline automatically
 
+#this is the example of printing on python
 print("Hello World!")
+
+#if you want to add blank line, you can use this code
+print()
+
+#if you don't want to execute a newline after print commmand, you can use this
+#end="" or end=" "
+
+print("Hello", end="") #this line of code will give no space
+print("World")
+
+print("Hello", end=" ") #this line of code will give you space
+print("World")
+
+
+
+
