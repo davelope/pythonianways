@@ -1,0 +1,4 @@
+#to state / define variable, you can use assignment statements (=) like this
+x = 100
+y = -200
+z = 'string'
