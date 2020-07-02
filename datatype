@@ -1,0 +1,9 @@
+#how to check datatype of the variable
+
+x = "Hallo"
+y = 90
+z = 1.5
+
+print(type(x))
+print(type(y))
+print(type(z))
