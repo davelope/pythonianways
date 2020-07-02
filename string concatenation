@@ -1,0 +1,4 @@
+x = "Hello"
+y = "World!"
+
+z = x+y #plus sign used to concatenate the strings
