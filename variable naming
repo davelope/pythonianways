@@ -1,0 +1,19 @@
+#these are some valid variable naming on python, it's just alternatives
+#you can develope it on your own preference
+HelloWorld
+helloWorld
+Helloworld
+Hello3World3
+_Hello
+Hello_world
+HELLO
+H3
+
+#some invalid variable naming
+4jack #initialized by number
+3H #initialized by number
+33 #initialized by number
+Hello-world #hypens not allowed
+Hello world #spaces not allowed
+Hello$world #special characters not allowed
+Hello'world #special characters not allowed
