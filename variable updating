@@ -1,0 +1,5 @@
+x = 100 # x variable assigned to have a value of 1000
+print(x) # it will turns out the result of 100
+
+x = 200 # updating the x variable to 200
+print(x) # it will show 200 now
