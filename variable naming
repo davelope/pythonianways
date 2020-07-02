@@ -17,3 +17,6 @@ Hello-world #hypens not allowed
 Hello world #spaces not allowed
 Hello$world #special characters not allowed
 Hello'world #special characters not allowed
+
+#python is a case sensitive language
+#it means Hello is different with HELLO or hello, etc
