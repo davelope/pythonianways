@@ -1,0 +1,10 @@
+x = 10
+y = 5
+
+print(x+y) #addition
+print(x-y) #substraction
+print(x*y) #multiplication
+print(x/y) #division
+print(x//y) #integer division / floored quotient
+print(x**y) #exponent
+print(x%y) #modulus/remainder
