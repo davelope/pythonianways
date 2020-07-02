@@ -1,0 +1,5 @@
+#if you script right into the python shell, the code will be executed immediately, and the results will show right after you hit Enter
+#you can use windows shell, too, first, enter your command prompt environment
+#then you can type : 'python' (without quotation marks) to enter your python shell
+#you can code directly in this python shell, it's the same when you code on python IDE built in shell
+#you can quit from windows-python shell by use this code : quit() or exit()
