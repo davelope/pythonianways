@@ -2,3 +2,19 @@
 
 yourinput = input("Type your name here: ")
 print("Your name: ",yourinput)
+
+#input function will make your inserted value become a string
+
+#if you want your input to be an integer / float, etc, you have to change it by this type function
+
+testinput = input("Input a number here: ") #input a number
+print(testinput)
+print(type(testinput)) #anything you input here will become a string
+
+#you can use either one of these alternatives
+testinput = int(input("Input a number here: "))
+print(type(testinput))
+#or
+testinput = input("Input a number here: ")
+testinput = float(testinput)
+print(type(testinput))
