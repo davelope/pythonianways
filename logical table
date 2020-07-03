@@ -1,0 +1,19 @@
+TnT = True and True
+print(TnT)
+TnF = True and False
+print(TnF)
+FnT = False and True
+print(FnT)
+FnF = False and False
+print(FnF)
+
+print()
+
+ToT = True or True
+print(ToT)
+ToF = True or False
+print(ToF)
+FoT = False or True
+print(FoT)
+FoF = False or False
+print(FoF)
