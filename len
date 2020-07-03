@@ -1,0 +1,8 @@
+#len can be used to count how many characters in a string
+#it can ONLY be used on string datatype
+
+x = "Hallo"
+print(len(x))
+
+y = "123456789"
+print(len(y))
