@@ -2,3 +2,7 @@
 
 print("Hallo") #it will be printed
 #print("Hallo") #it will not be printed
+
+#alternate ways to make a comment
+#use triple quotation marks '''
+'''Hallo world'''
