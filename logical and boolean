@@ -1,0 +1,11 @@
+print((4 < 5) and (5 < 6))
+#false and false
+#True
+
+print((4 < 5) and (9 < 6))
+#false and true
+#False
+
+print((1 == 2) or (2 == 2))
+#false and true
+#True
