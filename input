@@ -1,0 +1,4 @@
+#this code will explain how to use input user in python
+
+yourinput = input("Type your name here: ")
+print("Your name: ",yourinput)
