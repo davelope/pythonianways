@@ -1,0 +1,6 @@
+x = 100 #integer type
+y = 100.0 #float type
+z = '100' #string type
+
+print(x==y) #TRUE, integers and floats are both numbers in python
+print(x==z) #FALSE, strings is a completely different type in python
