@@ -1,0 +1,16 @@
+x = 10
+y = 10
+z = 2000
+
+print(x==y)
+print(x!=y)
+
+print()
+
+print(x>y)
+print(z<y)
+
+print()
+
+print(x>=y)
+print(y<=x)
