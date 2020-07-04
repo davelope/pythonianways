@@ -1,0 +1,7 @@
+#Karl Friedrich Gauss's Algorithm
+
+total = 0 #number will be starting from zero
+for num in range(101):
+    total = total+num
+print(total)
+    
