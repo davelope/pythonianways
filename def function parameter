@@ -1,0 +1,4 @@
+def name(namian): #inside the parentheses is called parameters
+    print('Your name: '+namian)
+    
+name('Buddha')
