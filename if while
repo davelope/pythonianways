@@ -1,0 +1,7 @@
+x = int(input("Insert number: "))
+if x<=5:
+    while x<=5:
+      print("Hallo", x)
+      x = x+1
+else:
+    print("you're sleepy.")
