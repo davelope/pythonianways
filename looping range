@@ -1,0 +1,8 @@
+print('My name is')
+for i in range(2,5): #it will be 2 to 4
+ print('Jimmy Five Times (' + str(i) + ')')
+
+#alternative way for a series of number
+print('My name is')
+for i in range(5): #it will be 0 to 4
+ print('Jimmy Five Times (' + str(i) + ')')
