@@ -1,7 +1,0 @@
-name = input("Insert your name: ")
-name = name.lower() #make it lower or upper so every input will be readable by the programs
-
-if name == 'david':
-  print("Welcome home, sir!")
-else:
-  print("Hello, Strangers.")
