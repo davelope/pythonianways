@@ -3,3 +3,5 @@ name = name.lower() #make it lower or upper so every input will be readable by t
 
 if name == 'david':
   print("Welcome home, sir!")
+else:
+  print("Hello, Strangers.")
