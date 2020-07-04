@@ -7,3 +7,6 @@ from numpy import *
 #importing partial lib function
 #change < >
 from <library> import <specified_function>
+
+#importing some lib can be typed this way
+import math, os, numpy
