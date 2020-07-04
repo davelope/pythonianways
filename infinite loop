@@ -1,0 +1,7 @@
+#infinite loop trap
+
+while True: #while will always have a True value
+    print('Who\'re you?')
+
+#to exit the infinite loop trap, click Ctrl+C
+#it is the shortcut to use KeyboardInterruption
