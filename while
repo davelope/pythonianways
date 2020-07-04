@@ -1,0 +1,4 @@
+x = int(input("Insert your number here: "))
+while x<=5:
+  print("Hallo", x)
+  x = x+1
