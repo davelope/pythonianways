@@ -1,0 +1,9 @@
+namahari = ['Senin','Selasa','Rabu']
+office, park, gym = namahari
+
+print(namahari)
+
+print()
+
+print(office)
+print(park)
