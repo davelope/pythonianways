@@ -1,0 +1,4 @@
+atk = ['pulpen','pensil','penghapus']
+
+for atk_i in range(len(atk)):
+  print('Index ' + str(atk_i) +' ' + 'contains ' + atk[atk_i])
