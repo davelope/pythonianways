@@ -1,0 +1,9 @@
+x = ['lily','rose','tulip']
+
+print("Enter the flower name: ")
+flowername = input("Enter your flower name: ")
+flowername = flowername.lower()
+if flowername not in x:
+  print("You don\'t have that flower")
+else:
+  print("You own " + flowername)
