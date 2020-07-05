@@ -1,0 +1,6 @@
+#assign a variable
+
+fruitname = 'durian'
+del fruitname
+
+print(fruitname)
