@@ -72,6 +72,17 @@ print(card)
 card[0] = (card[0]*2)
 print(card)
 
+#variable deleting in list
 
+namasiswa = ['Asep','Budi','Chandra']
 
+print(namasiswa)
 
+del namasiswa
+
+try:
+    print(namasiswa) #error karena list/variable sudah dihapus
+except NameError:
+    namasiswi = ['putri','angel','calista']
+    del namasiswi[2]
+    print(namasiswi)
