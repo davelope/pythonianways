@@ -1,0 +1,11 @@
+#augmented assignment
+
+#simple way
+z = 900
+z = z + 100
+print(z)
+
+#augmented way
+x = 100
+x += 90
+print(x)
