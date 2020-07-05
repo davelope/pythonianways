@@ -1,0 +1,77 @@
+#List is comma delimited
+#list uses square
+#list can contain anything, any type of data
+#index of the list started from 0, like other programming languages
+
+x = [1,2,3]
+y = ['cat','bat']
+z = ['girrafe', 1000, True]
+
+#indexing list
+print(x[1])
+print(y[0])
+
+print('one ' + y[0] + ' bite ' + str(x[0]) + ' ' + z[0])
+
+#list inside list
+#list that contains another list
+
+listing = ['RumahSakit','Mall','Bioskop'],['1000','2000','3000']
+print(listing[0])
+print(listing[1])
+
+print()
+
+print(listing[0][2])
+print(listing[1][0])
+
+
+#negative indexes #negative indexes started from -1
+list_sample = ['Jack','King','Queen']
+print(list_sample[1])
+print(list_sample[1][1]) #take i char from King string
+
+#sublisting / slicing
+print(list_sample[0:4])
+print(list_sample[0:-2])
+
+#sublisting / slicing (2)
+print(list_sample[:2])
+print(list_sample[1:])
+print(list_sample[:])
+
+#length (len) of list
+print(len(list_sample))
+
+#updating list
+
+fruit = ['apple','orange','grape','durian']
+
+fruit[0] = 'jackfruit'
+print(fruit)
+
+fruit[1] = fruit[0]
+print(fruit)
+
+#concatenation
+kota = ['Bandung','Birmingham','New York']
+kota_1 = ['Afrika']
+
+kota_concatenate = kota + kota_1
+print(kota_concatenate)
+
+kota_concatenate = kota_concatenate + [1,2,2]
+print(kota_concatenate)
+
+#replication
+card = ['Jack','King','Queen']
+
+card = card*2
+print(card)
+
+card[0] = (card[0]*2)
+print(card)
+
+
+
+
