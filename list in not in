@@ -1,0 +1,4 @@
+x = ['music','sport','art']
+
+print('music' in x)
+print('hockey' not in x)
