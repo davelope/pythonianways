@@ -1,0 +1,6 @@
+import time
+
+print("Hallo")
+time.sleep(2)
+print("Dunia")
+time.sleep(1)
