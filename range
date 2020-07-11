@@ -19,3 +19,7 @@ print(x[10]) #turns to be an error, because it force to show 11-th elements
 #stepping in range
 for i in range(0,4,2): #0 sebagai awal, 4 sebagai akhir, dan 2 sebagai step
     print(i)
+
+#stepping dengan indeks negatif, dan step negatif
+for i in range(3,-1,-1): #3 sebagai awal, -1 sebagai akhir, dan -1 sebagai step, dikurangi 1
+    print(i)
