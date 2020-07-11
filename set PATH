@@ -7,3 +7,6 @@ cd kodepython
 
 python.exe hello.py
 #ini untuk menjalankan program hello.py
+
+#alternatif
+python hello.py
