@@ -15,3 +15,7 @@ print(x[9]) #resulting number 10
 
 print(x[10]) #turns to be an error, because it force to show 11-th elements
              #but, the ranges just consists of 10 elements
+
+#stepping in range
+for i in range(0,4,2): #0 sebagai awal, 4 sebagai akhir, dan 2 sebagai step
+    print(i)
