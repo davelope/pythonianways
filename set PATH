@@ -1,0 +1,9 @@
+#anggap direktori tempat kita kerja di Python
+#D:\kodepython
+
+set PATH=C:\Python34;%PATH%
+
+cd kodepython
+
+python.exe hello.py
+#ini untuk menjalankan program hello.py
