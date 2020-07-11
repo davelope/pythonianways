@@ -1,0 +1,10 @@
+#menggunakan for
+for i in range(1,4):
+  print('python')
+
+print()
+#menggunakan while
+i = 1
+while (i<=3):
+  print('python')
+  i +=1
