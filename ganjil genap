@@ -1,0 +1,8 @@
+#bilangan ganjil genap
+
+x = int(input("Masukkan bilangan: "))
+
+if x%2 == 0 :
+    print("Bilangan x adalah bilangan genap.")
+else:
+    print("Bilangan x adalah bilangan ganjil.")
