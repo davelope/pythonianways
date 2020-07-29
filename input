@@ -23,4 +23,4 @@ print(type(testinput))
 print("Silahkan masukkan nama Anda: ")
 contoh = input()
 
-print(f"Hello {contoh}")
+print(f"Hello {contoh}, selamat datang")
