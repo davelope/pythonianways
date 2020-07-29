@@ -18,3 +18,9 @@ print(type(testinput))
 testinput = input("Input a number here: ")
 testinput = float(testinput)
 print(type(testinput))
+
+#################################contoh input dengan user input dibawah (nonparameter)
+print("Silahkan masukkan nama Anda: ")
+contoh = input()
+
+print(f"Hello {contoh}")
