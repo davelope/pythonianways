@@ -24,3 +24,15 @@ print("Silahkan masukkan nama Anda: ")
 contoh = input()
 
 print(f"Hello {contoh}, selamat datang")
+
+#####################################
+print("Masukkan angka pertama: ")
+angka1 = int(input())
+
+print("Masukkan angka kedua: ")
+angka2 = int(input())
+
+hasil = angka1 + angka2
+
+print(f"{angka1}+{angka2} = {hasil}")
+
