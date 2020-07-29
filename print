@@ -18,6 +18,15 @@ print("World")
 print("Hello", end=" ") #this line of code will give you space
 print("World")
 
+##########menggunakan string format
+namadepan = "Henny"
+namatengah = "Hariawati"
+namabelakang = "Venita"
+
+namalengkap = f"Hello {namadepan} {namatengah} {namabelakang}"
+
+print(namalengkap)
+
 
 
 
