@@ -1,0 +1,8 @@
+>>> import sys
+ >>> sys.path
+ ['', '/usr/local/lib/python2.2', '/usr/local/lib/python2.2/plat−linux2', 
+'/usr/local/lib/python2.2/lib−dynload', '/usr/local/lib/python2.2/site−packages', 
+'/usr/local/lib/python2.2/site−packages/PIL', '/usr/local/lib/python2.2/site−packages/piddle']
+ >>> sys
+ <module 'sys' (built−in)>
+ >>> sys.path.append('/my/new/path')
